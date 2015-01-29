@@ -1,0 +1,17 @@
+{
+    "translation_catalog": "voicemail-notifications",
+    "entries": [
+        {
+            "path": "voicemail-notifications",
+            "type": "section",
+            "title": "Voicemail",
+            "order": 200,
+            "translation_id": "voicemail-notifications"
+	    "icon": "/usr/share/voicemail-notifications/voicemail-notifications.png",
+	    "params": {
+                "source": "/usr/share/jolla-settings/pages/voicemail-notifications/Firstpage.qml"
+            }
+        }
+   
+    ]
+}
